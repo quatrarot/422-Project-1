@@ -7,7 +7,7 @@ on user end simplicity and future development/implementation. All code is done i
 
 [Installation & Running Instructions](#installing-and-running)
 
-[Development & Testing]
+[Development & Testing](https://github.com/quatrarot/422-Project-1/blob/master/Development%20%26%20Testing.md)
 
 [Process & Future Plans]
 
