@@ -1,3 +1,5 @@
+Written in Java using SDK 1.8. In order to include GUI the project requires access to javafx (which comes native on SKD 1.8).
+
 The code is designed to be built on. Below is a basic mapping of how it works.
 
 1. [SortGroups.java](https://github.com/quatrarot/422-Project-1/blob/master/Source%20Code/SortGroups.java)
