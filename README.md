@@ -1,4 +1,4 @@
-# 422-Project-1
+# 422: Project 1 - by Tyler Quatraro
 This is the first assignment for CIS 422 at the University of Oregon, a simple lightweight user/developer friendly program that creates optimal grouping from a list of People. 
 
 This project was produced by Tyler Quatraro, a Senior at the University of Oregon.  The idea of the project was to use minimalism
